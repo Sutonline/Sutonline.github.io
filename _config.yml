@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, actually in Python and Django.
-disqus_shortname: stackproblems
+title: Sutoneline Blog
+description: Record of learning 
+author: sut
+github: https://sutonline.github.io/
+about: 
+disqus_shortname: blog
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -26,9 +26,6 @@ social:
     - icon: fa-stack-exchange
       link: "#"
 
-share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -40,7 +37,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://sutonline.github.io/"
 baseurl: ""
 paginate: 20
 per_page: 20
