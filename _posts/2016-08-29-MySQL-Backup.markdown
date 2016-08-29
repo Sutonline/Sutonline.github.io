@@ -1,5 +1,3 @@
-### MySQL备份还原
-
 ---
 layout: post
 title:  "mySql备份还原"
